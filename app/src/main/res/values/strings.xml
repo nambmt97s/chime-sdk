@@ -1,0 +1,5 @@
+<resources>
+    <string name="msg_error_time_out">Connection timeout!</string>
+    <string name="msg_error_no_internet">Not connect internet!</string>
+    <string name="msg_error_data_parse">Parse data error!</string>
+</resources>
